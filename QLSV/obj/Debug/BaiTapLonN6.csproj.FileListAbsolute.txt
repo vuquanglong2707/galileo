@@ -1,0 +1,147 @@
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.exe.config
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.exe
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.pdb
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csprojAssemblyReference.cache
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.Properties.Resources.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.GenerateResource.cache
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.exe
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.pdb
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.HoSoSinhVien.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmDiaDanh.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLop.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.HoSoTamTru.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.Khoa.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.ThongKe.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmThemSV.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.ThemTamTru.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLogin.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.CopyComplete
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmREGISTER.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmMain.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmNhapDiemRL.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXemDiemRL.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmSuaDiemRL.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.ResolveComReference.cache
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\PagedList.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\PagedList.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLTaiKhoan.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLGiangVien.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmMonHoc.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLDiem.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXemDiem.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmTBTL.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXetHocBong.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.exe.licenses
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLoad.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmTaoLopDangKyHoc.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmSinhVienDangKyHoc.resources
+C:\Users\APC\source\repos\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmGiangVienNhapDiemMonHoc.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.exe.config
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.exe
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\BaiTapLonN6.pdb
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\PagedList.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Data.v19.1.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\PagedList.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csprojAssemblyReference.cache
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.ResolveComReference.cache
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmDiaDanh.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmGiangVienNhapDiemMonHoc.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLoad.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLogin.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmLop.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmMain.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmMonHoc.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmNhapDiemRL.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLDiem.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLGiangVien.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmQLTaiKhoan.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmREGISTER.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmSinhVienDangKyHoc.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmSuaDiemRL.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmTaoLopDangKyHoc.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmTBTL.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmThemSV.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXemDiem.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXemDiemRL.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.FrmXetHocBong.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.HoSoSinhVien.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.HoSoTamTru.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.Khoa.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.Properties.Resources.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.ThemTamTru.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.ThongKe.resources
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.GenerateResource.cache
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.exe.licenses
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.CoreCompileInputs.cache
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.csproj.CopyComplete
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.exe
+D:\LaptopOfFolder\Desktop\New folder (13)\BaiTapLonN6\BaiTapLonN6\obj\Debug\BaiTapLonN6.pdb
